@@ -1,0 +1,23 @@
+.App {
+  padding: 20px;
+  font-family: sans-serif;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 1000px;
+  background-color: lightseagreen;
+}
+
+.book-list {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.single-card {
+  width: 300px;
+}
+
+.book-main {
+  padding: 20px;
+}
